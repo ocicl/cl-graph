@@ -1,0 +1,10 @@
+* cl-graph
+
+Common Lisp library for manipulating graphs and running graph algorithms
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gwkkwg/cl-graph   |
+| commit  | c617de3  |
+| systems | cl-graph |
+|---------+-------------------------------------------|
+
